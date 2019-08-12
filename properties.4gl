@@ -1,5 +1,5 @@
 --*****************************************************************************
---* Tjos 4gl library provides an interface to an xml based key value store    *
+--* This 4gl library provides an interface to an xml based key value store    *
 --* that can be read in a run time.  This provides a means to update config.  *
 --* uration settings without recompiling the source code.                     *
 --*                                                                           *
